@@ -4,9 +4,16 @@ import plus from "../assets/Vector.png";
 
 function Header() {
     return <header>
-                <img src={logo} className="logo" alt="Logo" style={{ width: '150px', height: 'auto' }}/>
-                <img src={plus} className="add" alt="plus-sign" style={{ width: '150px', height: 'auto' }}/>
-                
+                <nav>
+                    <ul>
+                        <li>
+                            <img src={logo} className="logo" alt="Logo" style={{ width: '50px', height: 'auto' }}/>
+                        </li>
+                        <li>
+                            <img src={plus} className="add" alt="plus-sign" style={{ width: '50px', height: 'auto' }}/>
+                        </li>
+                    </ul>
+                </nav>
             </header>
 }
 
