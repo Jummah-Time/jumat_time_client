@@ -1,13 +1,16 @@
-import Header from '../components/Header.jsx';
-import Search from '../components/Search.jsx';
-import Mosques from '../components/Mosque.jsx';
+import Header from '../components/Header/Header.jsx';
+import Search from '../components/Search/Search.jsx';
+import Mosques from '../components/Mosque/Mosque.jsx';
 
 const Home = () => {
     return (
         <>
             <Header />
                 <Search />
-                    <Mosques />
+                    <h1>
+                        Know the jum’at time of a mosque close to you
+                    </h1>
+                        <Mosques />
         </>
     )
 }

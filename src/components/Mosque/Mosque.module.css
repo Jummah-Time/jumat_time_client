@@ -1,0 +1,42 @@
+.mosquesTop {
+    padding: 0 30px;
+    border-bottom: solid;
+    color: rgba(0, 128, 128, 1);
+    border-color: rgba(122, 122, 122, 0.6667);
+    margin: 0;
+}
+
+.mosque {
+    border-bottom: solid;
+    border-color: rgba(122, 122, 122, 0.6667);
+    margin: 0 7% ;
+    line-height: 10px;
+    padding: 10px;
+}
+
+.mosque h3 {
+    /* font-size: 20px; */
+    color: #000;
+    margin: 0;
+}
+
+.address {
+    font-size: 12px;
+    color: #5e5d5d;
+}
+
+.time {
+    font-weight: 19px;
+    color: #000;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 7px;
+}
+
+a {
+    color: rgba(0, 128, 128, 1);
+    text-decoration: none;
+}

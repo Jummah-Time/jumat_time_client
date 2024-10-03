@@ -1,0 +1,29 @@
+
+
+.searchBox {
+    display: flex;
+    width: 140px;
+    margin: 0 auto;
+    color: rgba(122, 122, 122, 1);
+    padding: 3px;
+    border-radius: 13px;
+    border: none;
+    width: 326px;
+    box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.288);
+    background-color: rgba(237, 237, 237, 1);
+    cursor: text;
+    
+}
+
+.searchBox input {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+}
+
+.searchBox .searchIcon {
+  background-color: transparent;
+  padding: 7px;
+  border-radius: 13px;
+}
+
