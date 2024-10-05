@@ -50,7 +50,6 @@ function Mosques() {
         <>
         <div>
             <p className={style.mosquesTop}>Mosques around</p>
-            <ul>
                 {mosques.map((mosque) => (
                     <div className={style.mosque}>
                         <ul>
@@ -65,7 +64,6 @@ function Mosques() {
                         </ul>
                     </div>
                 ))}
-            </ul>
             </div>
         </>
     )
