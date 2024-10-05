@@ -9,7 +9,7 @@ function Form() {
     
             <form className={style.mosqueForm}>
                 <label>Mosque</label>
-                <input className={style.input} type="text" placeholder="Enter your name" />
+                <input className={style.input} type="text" placeholder="Central Mosque" />
                 <label>Address</label>
                 <input type="text" placeholder="11, Heavens gate, Lagos, Nigeria" />
                 <label>Map Link (Optional)</label>

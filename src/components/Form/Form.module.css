@@ -38,7 +38,7 @@ h2 {
     background-color: transparent;
 }
 
-button {
+.mosqueForm button {
     background-color: rgba(0, 128, 128, 1);
     color: white;
     border: none;

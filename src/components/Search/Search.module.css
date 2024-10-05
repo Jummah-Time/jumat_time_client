@@ -27,3 +27,8 @@
   border-radius: 13px;
 }
 
+.searchBox button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

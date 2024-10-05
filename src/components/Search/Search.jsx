@@ -8,7 +8,7 @@ function Search() {
     return <>
         <div className={search.searchBox}>
             <img src={searchIcon} className={search.searchIcon}/>
-            <input type='text' placeHolder='Mosque'/>
+            <input type='text' placeholder='Mosque'/>
         </div>
     </>
 }

@@ -7,10 +7,6 @@ import './index.css';
 import Home from './pages/Home.jsx';
 import AddMosque from './pages/AddMosque.jsx';
 
-// import App from './App';
-
-const element = <h1>Omo mehn</h1>
-
 export default function App() {
   return (
     <BrowserRouter>
