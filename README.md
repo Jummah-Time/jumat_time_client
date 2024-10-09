@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# Jum'at Time Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+
+Jum'at Time Client is a web application designed to help users keep track of Jum'at prayer times. The application provides accurate prayer times based on the user's location and offers additional features to enhance the user experience.
+
+## Features
+
+- Accurate Jum'at prayer times based on location
+- Notifications for prayer times (not implemented)
+- User-friendly interface
+- Responsive design for mobile and desktop
+
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/jumat_time_client.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd jumat_time_client
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
 
 ## Available Scripts
 
@@ -8,7 +34,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -27,17 +53,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
@@ -45,26 +65,26 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+We welcome contributions to improve Jum'at Time Client. To contribute, please fork the repository, create a new branch, and submit a pull request.
 
-### Analyzing the Bundle Size
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Making a Progressive Web App
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+For any inquiries or feedback, please contact us at [anofiolawale@gmail.com](mailto:anofiolawale@gmail.com).
 
-### Advanced Configuration
+## Available Scripts
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+In the project directory, you can run:
 
-### Deployment
+### `npm start`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
