@@ -18,11 +18,13 @@
     /* font-size: 20px; */
     color: #000;
     margin: 0;
+    line-height: normal;
 }
 
 .address {
     font-size: 12px;
     color: #5e5d5d;
+    line-height: normal;
 }
 
 .time {

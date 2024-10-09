@@ -14,7 +14,7 @@ function Header() {
                             </Link>
                         </li>
                         <li>
-                            <Link to="/add-mosque">
+                            <Link to="https://docs.google.com/forms/d/e/1FAIpQLSc8E6y1JXGjso0n4c4p9belPRRwNn1gHGiNKtjUx4upitNVnA/viewform">
                                 <img src={plus} className="add" alt="plus-sign" style={{paddingTop: '10px', width: 'auto', height: '20px' }}/>
                             </Link>
                         </li>

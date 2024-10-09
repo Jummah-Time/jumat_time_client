@@ -25,8 +25,10 @@ function Form() {
             jumat_end
         };
 
+        const apiUrl = "https://jumat-time-server.onrender.com/mosques/add";
+
         axios({
-            url: "https://jumat-time-server.onrender.com/mosques/add",
+            url: apiUrl,
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
